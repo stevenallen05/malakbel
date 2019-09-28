@@ -1,0 +1,3 @@
+module Malakbel
+  VERSION = "0.0.1"
+end
